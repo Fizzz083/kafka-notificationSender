@@ -1,0 +1,23 @@
+@(kafkaMessages: Seq[KafkaMessage])
+
+@main("kafkaMessages") {
+<h1>You have @kafkaMessages.size Requests(s)</h1>
+
+<div>
+    <table>
+        <tr>
+            <th>Key</th>
+            <th>Status</th>
+            <th>Partition</th>
+        </tr>
+        @kafkaMessages.map { kafkaMessage =>
+        <tr>
+            <td>@kafkaMessage.key</td>
+            <td>@kafkaMessage.status</td>
+            <td>@kafkaMessage.partition</td>
+        </tr>
+        }
+    </table>
+
+</div>
+}

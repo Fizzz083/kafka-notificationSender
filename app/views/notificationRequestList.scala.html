@@ -1,0 +1,25 @@
+@(notificationRequests: Seq[NotificationRequest])
+
+@main("notificationRequests") {
+<h1>You have @notificationRequests.size Requests(s)</h1>
+
+<div>
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Type</th>
+            <th>Details</th>
+            <th>Date</th>
+        </tr>
+        @notificationRequests.map { notificationRequest =>
+        <tr>
+            <td>@notificationRequest.requestId</td>
+            <td>@notificationRequest.requestType</td>
+            <td>@notificationRequest.requestDetails</td>
+            <td>@notificationRequest.requestDate</td>
+        </tr>
+        }
+    </table>
+
+</div>
+}

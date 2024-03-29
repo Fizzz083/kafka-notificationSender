@@ -1,0 +1,25 @@
+@(emailRequests: Seq[EmailRequest])
+
+@main("emailRequests") {
+<h1>You have @emailRequests.size Requests(s)</h1>
+
+<div>
+    <table>
+        <tr>
+            <th>emailId</th>
+            <th>status</th>
+            <th>responseId</th>
+            <th>requestId</th>
+        </tr>
+        @emailRequests.map { emailRequest =>
+        <tr>
+            <td>@emailRequest.emailId</td>
+            <td>@emailRequest.status</td>
+            <td>@emailRequest.responseId</td>
+            <td>@emailRequest.requestId</td>
+        </tr>
+        }
+    </table>
+
+</div>
+}

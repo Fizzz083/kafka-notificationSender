@@ -1,0 +1,42 @@
+2023-10-17 15:18:20 [34mINFO [0;39m [36mplay.api.http.EnabledFilters[0;39m [35m[0;39m Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2023-10-17 15:18:20 [34mINFO [0;39m [36mplay.api.Play[0;39m [35m[0;39m Application started (Dev) (no global state)
+2023-10-17 15:19:47 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-2, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:48 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-5, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:48 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-1, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:48 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Producer clientId=producer-1] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:48 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-3, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:49 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-2, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:49 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Producer clientId=producer-1] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:49 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-1, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:49 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-5, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:49 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-3, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:50 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Producer clientId=producer-1] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:50 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-2, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:50 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-1, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:50 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-5, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:50 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-3, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:50 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Producer clientId=producer-1] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:51 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-2, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:51 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-1, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:51 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-3, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:51 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-5, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:52 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Producer clientId=producer-1] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:52 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-2, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:52 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-3, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:52 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-1, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:52 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-5, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:53 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Producer clientId=producer-1] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:53 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-3, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:53 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-2, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:53 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-1, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:53 [31mWARN [0;39m [36mo.apache.kafka.clients.NetworkClient[0;39m [35m[0;39m [Consumer clientId=consumer-null-5, groupId=null] Connection to node 1 (/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-10-17 15:19:53 [34mINFO [0;39m [36mp.a.i.l.c.CoordinatedShutdownSupport[0;39m [35m[0;39m Starting synchronous coordinated shutdown with ServerStoppedReason reason and 40000 milliseconds timeout
+2023-10-17 15:19:53 [34mINFO [0;39m [36mplay.core.server.AkkaHttpServer[0;39m [35m[0;39m Stopping Akka HTTP server...
+2023-10-17 15:19:53 [34mINFO [0;39m [36mplay.core.server.AkkaHttpServer[0;39m [35m[0;39m Unbinding /[0:0:0:0:0:0:0:0]:9000
+2023-10-17 15:19:53 [34mINFO [0;39m [36mplay.core.server.AkkaHttpServer[0;39m [35m[0;39m Terminating server binding for /[0:0:0:0:0:0:0:0]:9000
+2023-10-17 15:19:53 [34mINFO [0;39m [36mplay.core.server.AkkaHttpServer[0;39m [35m[0;39m Running provided shutdown stop hooks
